@@ -1,6 +1,6 @@
-# RTDS GUI & Control (Robotics Module 1)
+# Robot DDMR GUI & Control (Robotics Module 2)
 
-Welcome to the GitHub repository for our RTDS GUI & Control (Robotics Module 1), part of the "Pemrograman Sistem Mekatronika" course. This repository contains all the necessary files and documentation for your project.
+Welcome to the GitHub repository for our Robot DDMR GUI & Control (Robotics Module 2), part of the "Pemrograman Sistem Mekatronika" course. This repository contains all the necessary files and documentation for your project.
 
 ## Team Members
 
