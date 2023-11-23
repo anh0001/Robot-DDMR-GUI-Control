@@ -4,8 +4,8 @@ Welcome to the GitHub repository for our Robot DDMR GUI & Control (Robotics Modu
 
 ## Team Members
 
-- Member 1: [Name] - [Student ID]
-- Member 2: [Name] - [Student ID]
+- Member 1: [M. Naufal Raihan R] - [4121600036]
+- Member 2: [Aziz Turu] - [Student ID]
 - ... (Add all team members with their IDs)
 
 ## Repository Structure
