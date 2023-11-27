@@ -3,7 +3,9 @@
 Welcome to the GitHub repository for our Robot DDMR GUI & Control (Robotics Module 2), part of the "Pemrograman Sistem Mekatronika" course. This repository contains all the necessary files and documentation for your project.
 
 ## Team Members
-
+- Kelas A Meka 2023
+  - Member 1: Nailatun Naja Nisrina - 4121600003
+  - Member 2: Muhammad Renaldy - 4121600026
 - Kelas B Meka 2023:
   - Member 1: M. Naufal Raihan R - 4121600036
   - Member 2: Mochammad Abdul Aziz - 4121600031
