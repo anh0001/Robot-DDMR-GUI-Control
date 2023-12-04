@@ -4,9 +4,11 @@ Welcome to the GitHub repository for our Robot DDMR GUI & Control (Robotics Modu
 
 ## Team Members
 
-- Kelas B Meka 2023:
-  - Member 1: M. Naufal Raihan R - 4121600036
-  - Member 2: Mochammad Abdul Aziz - 4121600031
+- Mechatronics B 2021:
+  - M. Naufal Raihan R - 4121600036
+  - Mochammad Abdul Aziz - 4121600031
+  - Nailatun Naja Nisrina - 4121600003
+  - Muhammad Renaldy - 4121600026
 
 ## Repository Structure
 
